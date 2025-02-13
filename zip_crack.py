@@ -1,5 +1,5 @@
 import zipfile
-# PentestBOX: Python Version (Python 2.7.11)
+# PentestBOX: Python Version (Python 2.7.11) Youtube: @HCKaito_iZumiXD
 def zCRACKER(z_FILE, Password):
 	try:
 		with zipfile.ZipFile(z_FILE, 'r') as ZFILES:
